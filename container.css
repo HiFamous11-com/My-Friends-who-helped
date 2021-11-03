@@ -1,0 +1,8 @@
+.container {
+    border: calc(var(--radius) / 2);
+    border-style: dashed;
+    border-color: aqua;
+    border-left-color: aqua;
+    border-right-color: aqua;
+    border-bottom-color: rgb(172, 48, 255);
+}
