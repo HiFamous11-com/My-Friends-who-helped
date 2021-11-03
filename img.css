@@ -13,11 +13,19 @@ img {
   }
 
 img:hover {
-  border-color: aqua;
-  border-style: groove;
   border-width: 5px;
   border-color: aqua;
-  background-color: turquoise;
+  background-image: url("https://wallpaperaccess.com/full/676549.jpg");
   border-radius: 5px;
-  border: calc(var(--radius) / 2);
+  padding: 1rem;
+  transition: ease-in-out;
+}
+
+img.container {
+  border-width: 5px;
+  border-color: aqua;
+  background-image: url("https://c.tenor.com/BaWRKCeYEQEAAAAC/blueflames-shining.gif");
+  border-radius: 5px;
+  padding: 1rem;
+  transition: ease-in-out;
 }
