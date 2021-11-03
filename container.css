@@ -5,5 +5,11 @@
     border-left-color: aqua;
     border-right-color: aqua;
     border-bottom-color: rgb(172, 48, 255);
-    background-image: url("");
+    background-image: url("https://flevix.com/wp-content/uploads/2019/12/bubble-animated-background.svg");
+    padding: 1.25rem;
+    margin: 3vh 3vw;
+}
+
+.container.main {
+    margin: 4vh 1vw;
 }
